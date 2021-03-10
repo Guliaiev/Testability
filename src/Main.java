@@ -5,4 +5,5 @@ public class Main   {
         float miles = 20f;
         float bonus = cost / miles;
         System.out.println("bonus miles " +bonus);
-    }}
+    }
+}
