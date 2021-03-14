@@ -1,9 +1,9 @@
 
 public class Main   {
     public static void main(String[] args) {
-        float cost = 10000;
-        float miles = 20;
-        float bonus = cost / miles;
+        int cost = 10000;
+        int miles = 20;
+        int bonus = cost / miles;
         System.out.println("bonus miles " +bonus);
     }
 }
